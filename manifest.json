@@ -1,0 +1,16 @@
+{
+
+    "name":"Random Facts",
+    "version":"0.0.1",
+    "manifest_version":3,
+    "action":{
+        "default_popup":"popup.html",
+        "default_icon":"chrome1.png"
+    },
+    "icons":{
+        "128":"chrome1.png"
+    },
+    "permissions":["activeTab"]
+
+
+}
